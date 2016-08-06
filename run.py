@@ -2,8 +2,6 @@ from utils.functionality import sort1
 from utils.stats import max, min, mean, kurtosis, sd
 from utils.predict import modelTraining
 from utils.helper import myTimeFunc, listSize, globalTimeLis, calculateScore
-
-import time
 import numpy as np
 
 
