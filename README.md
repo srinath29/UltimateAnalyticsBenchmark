@@ -11,6 +11,10 @@ It works by calculating various statistical values and models (explained later) 
 ##Score Range
 Theoratically score will range from [0, infi)
 
+##Python version
+Built using python 3
+
+
 #Functions used
 
 ##Generating list
