@@ -5,7 +5,7 @@ To get a score on system performace of your machine in the field of analytics
 #Introduction
 
 ##Methodology
-It works by calculating various statistical values and models (explained later) and compares with a base and it uses Hyperbolic curve formulae which highly penalizes slow machines a the same time highly rewards good machines. 
+It works by calculating various statistical values and models (explained later) and compares with a base and it uses Hyperbolic curve formulae which highly penalizes slow machines and at the same time highly rewards good machines. 
 
 
 ##Score Range
