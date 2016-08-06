@@ -16,7 +16,7 @@ Theoratically score will range from [0, infi)
 ##Generating list
 Using numpy to generate a very large list of random floats
 
-*The folwing functions are ran several times and score is calculated*
+*The folwing functions are run several times and score is calculated*
 
 ##Sorting the List
 Using self implemented quicksort to sort.
