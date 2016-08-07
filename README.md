@@ -3,9 +3,11 @@
 To get a score on system performace of your machine in the field of analytics
 
 #Running the benchmark
-1)Clone or Download this repo
-2)cd to the cloned or Downloaded(Might need to unzip if downloaded) repo
-3) issue python run.py from commandline
+* Clone or Download this repo
+* cd to the cloned or Downloaded(Might need to unzip if downloaded) repo
+*  issue python run.py from commandline
+
+**If running this code on bash on ubuntu on windows, you need to do export KMP_AFFINITY=disabled**
 
 
 #Introduction
