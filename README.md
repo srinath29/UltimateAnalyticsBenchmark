@@ -2,6 +2,12 @@
 # UltimateAnalyticsBenchmark
 To get a score on system performace of your machine in the field of analytics
 
+#Running the benchmark
+1)Clone or Download this repo
+2)cd to the cloned or Downloaded(Might need to unzip if downloaded) repo
+3) issue python run.py from commandline
+
+
 #Introduction
 
 ##Methodology
