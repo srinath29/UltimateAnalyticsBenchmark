@@ -14,6 +14,8 @@ To get a score on system performace of your machine in the field of analytics
 * statsmodels
 * pandas
 * numpy-mkl
+ 
+
 **Best way to run this is install Anaconda 3 from Continuum Analytics and run it **
 
 
