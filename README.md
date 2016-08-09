@@ -9,6 +9,14 @@ To get a score on system performace of your machine in the field of analytics
 
 **If running this code on bash on ubuntu on windows, you need to do export KMP_AFFINITY=disabled**
 
+#Requirements
+* Python 3.5 or above
+* statsmodels
+* pandas
+* numpy-mkl
+**Best way to run this is install Anaconda 3 from Continuum Analytics and run it **
+
+
 *Some Scores:*
 ####System 1:
 1.	OS: Ubuntu
@@ -94,9 +102,8 @@ The sample data in the "Data/data.xlsx" file is used as the sample data and vari
 ###3)GLSAR (Generalized least square with AR(p) convergence)
 ###4)Robust Linear Model
 
-#Dependency
-1)statsmodels
-2)pandas
 
-*Except models all methods are self implemented, so not much dependency is there*
+
+
+*Except model creation, all methods are self implemented*
 
