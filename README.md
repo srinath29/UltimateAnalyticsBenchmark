@@ -9,6 +9,45 @@ To get a score on system performace of your machine in the field of analytics
 
 **If running this code on bash on ubuntu on windows, you need to do export KMP_AFFINITY=disabled**
 
+*Some Scores:*
+####System 1:
+1.	OS: Ubuntu
+2.	Processor: intel i5-5th gen MQ processor
+3.	Ram:- 8 GB DDR3
+4.	System Type: Desktop
+5.	**Score : 5.6**
+
+####System 2:
+1.	OS: Windows 10
+2.	Processor: intel i5-6th gen U processor
+3.	Ram: 8 GB
+4.	System Type: Laptop
+5.	**Score: 2.5**
+
+
+####System 3:
+1.	OS: Ubuntu on Windows 10 (After anniversary update)
+2.	Processor: intel i5-5th gen U processor
+3.	Ram: 12 GB
+4.	System Type: Laptop
+5.	**Score: 2.15**
+
+####System 4:
+1.	OS: Windows 10
+2.	Processor: intel i5-5th gen U processor
+3.	Ram: 12 GB
+4.	System Type: Laptop
+5.	**Score: 2.0**
+
+####System 5:
+1.	OS: Windows 10
+2.	Processor: intel i3-5th gen U processor
+3.	Ram: 4 GB
+4.	System Type: Laptop
+5.	**Score: 1.3**
+
+
+
 
 #Introduction
 
